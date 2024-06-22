@@ -8,11 +8,11 @@ This example focuses on fine-tuning SAM segmentation on a custom COCO dataset fo
 ## Ejemplo de Imagen de Predicciones
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 50%; padding-right: 20px;">
+  <div style="flex: 10%; padding-right: 10px;">
     <p>Descripción o texto relacionado con la imagen.</p>
     <p>Puedes añadir más texto aquí según sea necesario.</p>
   </div>
-  <div style="flex: 50%;">
+  <div style="flex: 10%;">
     <img src="images/Predictions.png" alt="Predictions" width="100%">
   </div>
 </div>
