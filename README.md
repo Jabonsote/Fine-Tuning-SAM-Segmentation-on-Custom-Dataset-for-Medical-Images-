@@ -46,8 +46,11 @@ To get started with this repository, follow these steps:
     python train.py
     ```
 ## WandB Visualization
+
 You can view the WandB report for this project [here](https://wandb.ai/uabc/rtx3060%20-%20visualizamiento%20exitoso/reports/-Fine-Tuning-SAM-on-Custom-COCO-Dataset-for-Breast-Medical-Images---Vmlldzo4NDIxNTE2).
 
+## Additional Resources
+- [Download Losses PDF](/images/losses.pdf)
 
 
 ## Acknowledgements
