@@ -9,7 +9,7 @@ This example focuses on fine-tuning SAM segmentation on a custom COCO dataset fo
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="images/predictions.png" alt="Predictions" width="300">
+    <img src="images/Predictions.png" alt="Predictions" width="300">
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <p>Descripción o texto relacionado con la imagen.</p>
