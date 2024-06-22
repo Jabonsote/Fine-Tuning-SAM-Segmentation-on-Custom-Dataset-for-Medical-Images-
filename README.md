@@ -3,8 +3,6 @@
 ## Description
 This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.com/mazurowski-lab/finetune-SAM). In this repository, we provide a simple conversion of COCO datasets to the SAM format necessary for fine-tuning. Additionally, we include Weights & Biases (wandb) visualization for tracking experiments and have fixed various code errors. 
 
-This example focuses on fine-tuning SAM segmentation on a custom COCO dataset for breast medical images, excluding the pectoral muscle, and uses a single class: "breast." The training is configured for a single GPU (RTX 3060) using SAM ViT-B, spans 54 epochs, and completes in approximately 3 hours, 29 minutes, and 32 seconds. The repository includes the training losses and other relevant metrics.
-
 ## Example Prediction Image
 
 <div style="display: flex; align-items: center;">
@@ -12,8 +10,8 @@ This example focuses on fine-tuning SAM segmentation on a custom COCO dataset fo
     <img src="images/Predictions.png" alt="Predictions" width="300">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    <p>Descripción o texto relacionado con la imagen.</p>
-    <p>Aquí puedes añadir más texto según sea necesario.</p>
+    <p>This example focuses on fine-tuning SAM segmentation on a custom COCO dataset for breast medical images, excluding the pectoral muscle, and uses a single class: "breast." The   training is configured for a single GPU (RTX 3060) using SAM ViT-B, spans 54 epochs, and completes in approximately 3 hours, 29 minutes, and 32 seconds. The repository includes the training losses and other relevant metrics.</p>
+
   </div>
 </div>
 
