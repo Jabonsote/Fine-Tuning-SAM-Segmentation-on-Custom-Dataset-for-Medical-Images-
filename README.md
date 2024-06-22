@@ -5,8 +5,17 @@ This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.co
 
 This example focuses on fine-tuning SAM segmentation on a custom COCO dataset for breast medical images, excluding the pectoral muscle, and uses a single class: "breast." The training is configured for a single GPU (RTX 3060) using SAM ViT-B, spans 54 epochs, and completes in approximately 3 hours, 29 minutes, and 32 seconds. The repository includes the training losses and other relevant metrics.
 
-## Example Prediction Image
-![Predictions](images/Predictions.png)
+## Ejemplo de Imagen de Predicciones
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 50%; padding-right: 20px;">
+    <p>Descripción o texto relacionado con la imagen.</p>
+    <p>Puedes añadir más texto aquí según sea necesario.</p>
+  </div>
+  <div style="flex: 50%;">
+    <img src="images/Predictions.png" alt="Predictions" width="100%">
+  </div>
+</div>
 
 
 ## Key Features
