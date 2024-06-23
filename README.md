@@ -45,13 +45,13 @@ This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.co
 - Example dataset and training results
 
 ## Getting Started
+First install SAM from original documentation [segment-anything](https://github.com/facebookresearch/segment-anything) and download a model checkpoint (vit_h,vit_b...)
 To get started with this repository, follow these steps:
 
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-username/your-repo-name.git
     ```
-
 2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
