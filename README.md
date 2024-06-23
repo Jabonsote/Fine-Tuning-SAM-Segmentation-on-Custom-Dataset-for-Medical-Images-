@@ -3,16 +3,16 @@
 ## Description
 This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.com/mazurowski-lab/finetune-SAM). In this repository, we provide a simple conversion of COCO datasets to the SAM format necessary for fine-tuning. Additionally, we include Weights & Biases (wandb) visualization for tracking experiments and have fixed various code errors. 
 
-<div style="display: flex; justify-content: center; align-items: center; background-color: white; padding: 10px;">
+<p align="center" style="background-color: white; padding: 10px;">
   <img src="images/Method9.png" alt="Method" width="300">
-</div>
+</p>
 
 
 
 ## Example Prediction Image
 
 <p align="center" style="background-color: white; padding: 10px;">
-  <img src="images/Method9.png" alt="Method" width="300">
+  <img src="images/test9.png" alt="Method" width="300">
 </p>
 
 
@@ -30,14 +30,10 @@ This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.co
 - **Training Time:** 3 hours, 29 minutes, and 32 seconds
 - **Hardware:** RTX 3060 GPU
 - 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="images/loss.png" alt="Losses" width="1000", height="500">
-  </div>
-  <div style="flex: 2; padding-left: 50px;">
-    <p>This example of wandb metrics</p>
-  </div>
-</div>
+<p align="center" style="background-color: white; padding: 10px;">
+  <img src="images/loss.png" alt="Method" width="300">
+</p>
+
 
 
 ## Repository Contents
