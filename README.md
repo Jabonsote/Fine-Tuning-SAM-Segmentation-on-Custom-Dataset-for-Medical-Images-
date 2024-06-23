@@ -32,7 +32,7 @@ This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.co
   <div style="flex: 1;">
     <img src="images/loss.png" alt="Predictions" width="300">
   </div>
-  <div style="flex: 2; padding-left: 20px;">
+  <div style="flex: 2; padding-left: 50px;">
     <p>This example of wandb metrics</p>
   </div>
 </div>
