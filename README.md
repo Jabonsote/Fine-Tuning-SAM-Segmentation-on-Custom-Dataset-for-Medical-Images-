@@ -27,6 +27,16 @@ This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.co
 - **Epochs:** 54
 - **Training Time:** 3 hours, 29 minutes, and 32 seconds
 - **Hardware:** RTX 3060 GPU
+- 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="images/loss.png" alt="Predictions" width="300">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>This example of wandb metrics</p>
+  </div>
+</div>
+
 
 ## Repository Contents
 - Conversion scripts for COCO to SAM format
