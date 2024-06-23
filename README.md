@@ -4,7 +4,7 @@
 This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.com/mazurowski-lab/finetune-SAM). In this repository, we provide a simple conversion of COCO datasets to the SAM format necessary for fine-tuning. Additionally, we include Weights & Biases (wandb) visualization for tracking experiments and have fixed various code errors. 
 
 <p align="center" style="background-color: white; padding: 10px;">
-  <img src="images/Method9.png" alt="Method" width="300">
+  <img src="images/test8.png" alt="Method" width="300">
 </p>
 
 
