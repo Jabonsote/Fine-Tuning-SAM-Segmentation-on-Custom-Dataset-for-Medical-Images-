@@ -30,7 +30,7 @@ This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.co
 - 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="images/loss.png" alt="Losses" width="500", height="500">
+    <img src="images/loss.png" alt="Losses" width="1000", height="500">
   </div>
   <div style="flex: 2; padding-left: 50px;">
     <p>This example of wandb metrics</p>
