@@ -31,7 +31,7 @@ This repository is inspired by [Mazurowski Lab's finetune-SAM](https://github.co
 - **Hardware:** RTX 3060 GPU
 - 
 <p align="center" style="background-color: white; padding: 10px;">
-  <img src="images/loss.png" alt="Method" width="300">
+  <img src="images/loss.png" alt="Method" width="800", height="500">
 </p>
 
 
